@@ -1,3 +1,14 @@
+HTML Widget for BrightSign players
+
+compiled files are in the 'build' dir
+
+
+Based on https://codepen.io/ky0suke/pen/MyNXWX
+TimeZones https://www.php.net/manual/ru/timezones.america.php
+
+if you whant to change timeZone, see src/templates/page.html
+
+
 #How to use
 
 Clone this repo and then in command line type:
